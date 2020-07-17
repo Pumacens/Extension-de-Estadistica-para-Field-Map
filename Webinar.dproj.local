@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/13 22:03:37.000.934,=C:\Users\Pumacens\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/20 14:40:58.000.283,C:\Users\Pumacens\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Pumacens\Documents\Embarcadero\Studio\Projects\Webina.dproj</Transaction>
+    <Transaction>2020/05/20 14:43:32.000.081,C:\Users\Pumacens\Documents\Embarcadero\Studio\Projects\Webina.dproj=C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\Webina.dproj</Transaction>
+    <Transaction>2020/05/20 14:46:10.000.072,=C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\Unit1.pas</Transaction>
+    <Transaction>2020/05/20 14:46:45.000.544,C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\Unit1.pas=C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\frmInterfaz_u.pas</Transaction>
+    <Transaction>2020/05/20 14:46:45.000.544,C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\Unit1.dfm=C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\frmInterfaz_u.dfm</Transaction>
+    <Transaction>2020/05/20 14:49:27.000.285,=C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\Unit1.pas</Transaction>
+    <Transaction>2020/05/20 14:50:32.000.293,C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\Unit1.pas=C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\DllCode.pas</Transaction>
+    <Transaction>2020/05/20 14:50:32.000.293,C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\Unit1.dfm=C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\DllCode.dfm</Transaction>
+    <Transaction>2020/05/20 14:50:51.000.724,C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\DllCode.dfm=C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\dataModule.dfm</Transaction>
+    <Transaction>2020/05/20 14:50:51.000.724,C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\DllCode.pas=C:\Users\Pumacens\Documents\Embarcadero\Studio\Webinar Interface\dataModule.pas</Transaction>
+    <Transaction>2020/05/21 12:51:53.000.442,=D:\Archivos Sinconizados Google Drive\Cosas PC\Universidad\Tesis\Codigo\frmComplementario_u.pas</Transaction>
+    <Transaction>2020/05/21 12:52:35.000.544,D:\Archivos Sinconizados Google Drive\Cosas PC\Universidad\Tesis\Codigo\frmComplementario_u.pas=</Transaction>
+    <Transaction>2020/05/21 12:53:23.000.327,=D:\Webinar\Webinar Interface\frmComplementario_u.pas</Transaction>
+    <Transaction>2020/05/25 17:02:55.000.541,D:\Webinar\Webinar Interface\Webinar.dproj=D:\Webinar\Webinar Interface\Webina.dproj</Transaction>
+    <Transaction>2020/05/28 10:20:06.000.475,=D:\Webinar\Webinar Interface\Unit1.pas</Transaction>
+    <Transaction>2020/05/28 10:20:29.000.715,D:\Webinar\Webinar Interface\Unit1.pas=D:\Webinar\Webinar Interface\frmReporte_u.pas</Transaction>
+    <Transaction>2020/05/28 10:20:29.000.715,D:\Webinar\Webinar Interface\Unit1.dfm=D:\Webinar\Webinar Interface\frmReporte_u.dfm</Transaction>
+    <Transaction>2020/05/28 11:12:01.000.604,D:\Webinar\Webinar Interface\frmReporte_u.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
